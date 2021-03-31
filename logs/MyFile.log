@@ -1,0 +1,14 @@
+31.03.2021 14:35:03.847 [main] INFO  FirstJavaClass:setup - Start of setUp
+31.03.2021 14:35:36.570 [main] INFO  FirstJavaClass:setup - Start of setUp
+31.03.2021 14:45:20.603 [main] INFO  FirstJavaClass:setup - Start of setUp
+31.03.2021 15:53:32.518 [main] INFO  TestCase_GetFootballSchedule:getAvailableSessions - Start of setUp
+31.03.2021 16:10:21.893 [main] INFO  TestCase_GetTeams:getCountries - End of countries Testcase
+31.03.2021 16:10:22.442 [main] INFO  TestCase_GetTeams:getSeasons - Start of setUp
+31.03.2021 16:10:42.980 [main] INFO  TestCase_GetTeams:getCountries - End of countries Testcase
+31.03.2021 16:10:43.220 [main] INFO  TestCase_GetTeams:getSeasons - Start of setUp
+31.03.2021 16:10:43.467 [main] INFO  TestCase_GetTeams:getTeamByID - Start of setUp
+31.03.2021 16:10:43.655 [main] INFO  TestCase_GetTeams:getTeamByLeagueId - Start of setUp
+31.03.2021 16:22:40.875 [main] INFO  TestCase_GetTeams:getCountries - End of countries Testcase
+31.03.2021 16:22:41.139 [main] INFO  TestCase_GetTeams:getSeasons - Start of setUp
+31.03.2021 16:22:41.335 [main] INFO  TestCase_GetTeams:getTeamByID - Start of setUp
+31.03.2021 16:22:41.527 [main] INFO  TestCase_GetTeams:getTeamByLeagueId - Start of setUp
